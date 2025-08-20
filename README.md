@@ -4,7 +4,7 @@
 A Streamlit-powered Search Engine that combines the power of Groq’s Llama3 Large Language Model (LLM) with LangChain tools.
 This app allows you to query Wikipedia, ArXiv, and the Web (DuckDuckGo) simultaneously and get concise, contextual, and AI-enhanced results in real time.
 
-<div align="center"> <img src="Screenshot%202025-08-20%20085718.png" alt="App Screenshot" width="750"/> </div>
+<div align="center"> <img src="Screenshot%202025-08-20%20085718.png" alt="App Screenshot" width="900"/> </div>
 
 
 ✨ Features
