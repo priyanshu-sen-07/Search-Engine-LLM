@@ -8,10 +8,13 @@ This app allows you to query Wikipedia, ArXiv, and the Web (DuckDuckGo) simultan
 ✨ Features
 
 ✅ AI-Powered Search Engine – Query multiple sources and get summarized answers.
+
 ✅ Parallel Search Execution – Wikipedia + ArXiv + Web results together.
+
 ✅ Groq Llama3-8b-8192 – Ultra-fast inference with streaming responses.
+
 ✅ Interactive Chat UI – Beautiful Streamlit-based chat-style interface.
-✅ Contextual Memory – Remembers conversation history for better follow-ups.
+
 ✅ Secure API Key Input – Hide your Groq API key with password-type sidebar input.
 
 📊 Use Cases
@@ -20,3 +23,23 @@ This app allows you to query Wikipedia, ArXiv, and the Web (DuckDuckGo) simultan
 🔹 Developers → Fetch coding & ML concepts directly from Wikipedia/Web.
 🔹 General Knowledge → Ask about celebrities, science, history, etc.
 🔹 AI Enthusiasts → Learn how to build a LangChain-based Search Engine.
+
+🛠️ Tech Stack
+
+Frontend / UI → Streamlit
+
+LLM → Groq Llama3-8b-8192
+
+Framework → LangChain
+
+Search APIs → Wikipedia, ArXiv, DuckDuckGo
+
+Language → Python 3.10+
+
+🎯 Why Groq + LangChain + Streamlit?
+
+⚡ Groq → Extremely fast inference with open-source Llama3.
+
+🧠 LangChain → Agent-based orchestration with tool calling.
+
+🎨 Streamlit → Quick & elegant UI for LLM-based apps.
