@@ -20,21 +20,24 @@ This app allows you to query Wikipedia, ArXiv, and the Web (DuckDuckGo) simultan
 📊 Use Cases
 
 🔹 Students & Researchers → Summarize research papers (ArXiv) quickly.
+
 🔹 Developers → Fetch coding & ML concepts directly from Wikipedia/Web.
+
 🔹 General Knowledge → Ask about celebrities, science, history, etc.
+
 🔹 AI Enthusiasts → Learn how to build a LangChain-based Search Engine.
 
 🛠️ Tech Stack
 
-Frontend / UI → Streamlit
+1. Frontend / UI → Streamlit
 
-LLM → Groq Llama3-8b-8192
+2. LLM → Groq Llama3-8b-8192
 
-Framework → LangChain
+3. Framework → LangChain
 
-Search APIs → Wikipedia, ArXiv, DuckDuckGo
+4. Search APIs → Wikipedia, ArXiv, DuckDuckGo
 
-Language → Python 3.10+
+5. Language → Python 3.10+
 
 🎯 Why Groq + LangChain + Streamlit?
 
