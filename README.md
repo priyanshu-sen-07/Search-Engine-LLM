@@ -54,3 +54,4 @@ This app allows you to query Wikipedia, ArXiv, and the Web (DuckDuckGo) simultan
 🧠 LangChain → Agent-based orchestration with tool calling.
 
 🎨 Streamlit → Quick & elegant UI for LLM-based apps.
+
