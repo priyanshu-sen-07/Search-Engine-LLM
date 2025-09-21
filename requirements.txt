@@ -27,4 +27,6 @@ youtube_transcript_api
 unstructured
 pytube
 numexpr
+-U ddgs
+
 huggingface_hub
